@@ -2,7 +2,7 @@
 
 A system in which users are enlist into a queue before being able to use the service.
 
-User tries to log in, if user is the first one user can use the service and manage the Arduino board.
+User tries to log in, if the user is the first one, the user can use the service and manage the Arduino board.
 
 The service consist of some buttons and dials to control pins from an Arduino board loaded with an user program. (developed in collaboration)
 
